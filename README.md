@@ -6,7 +6,7 @@
 
 > Jinja Template Features
 
-- UI Kit: **Datta Able PRO** by **Bootstrapdash**
+- UI Kit: **Datta Able PRO** by **CodedThemes**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Support via **Github** and [Discord](https://discord.gg/fZC6hup).
 
