@@ -15,7 +15,7 @@
 > Links
 
 - [Jinja Datta Able PRO](https://appseed.us/jinja-template/jinja-datta-able-pro) - Product page
-- [Jinja Datta Able PRO - Demo](https://jinja-datta-able-pro.appseed.us/) - LIVE Demo
+- [Jinja Datta Able PRO - Demo](https://jinja-datta-able-pro.appseed-srv1.com/) - LIVE Demo
 - [Jinja Datta Able PRO - Docs](https://docs.appseed.us/jinja-template/jinja-datta-able-pro/) - Product documentation
 
 <br />
