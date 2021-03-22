@@ -1,5 +1,15 @@
 # Change Log
 
+## [1.0.2] 2020-03-22
+### Fixes 
+
+- Added missing pages: 
+    - index-ac-package.html
+    - index-bc-package.html
+    - index-form-package.html
+    - index-widget-package.html
+    - index-chart-package.html
+    
 ## [1.0.1] 2020-02-15
 ### Fixes & Improvements
 
