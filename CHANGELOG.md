@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.0.4] 2022-05-30
+### Improvements
+
+- Built with [Datta Able PRO Generator](https://appseed.us/generator/datta-able-pro/)
+  - Timestamp: `2022-06-13 10:33`
+
+## [1.0.3] 2022-05-30
+### Improvements
+
+- UI Version: v1.0.0
+  - https://github.com/codedthemes/datta-able-vanilla-js
+
 ## [1.0.2] 2020-03-22
 ### Fixes 
 
